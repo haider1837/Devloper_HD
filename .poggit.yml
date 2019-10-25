@@ -1,5 +1,5 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/haider1837/Devloper_HD
 branches:
-- master
+- plugins
 projects: []
 ...
